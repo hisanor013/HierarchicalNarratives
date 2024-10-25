@@ -1,0 +1,2702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <gexf xmlns="http://www.gexf.net/1.2draft" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" xmlns:viz="http://www.gexf.net/1.2draft/viz" version="1.2">
+    <meta lastmodifieddate="2009-03-20">
+    <creator>RH</creator>
+    <description>Dynamic Network</description>
+    </meta>
+    <graph mode="dynamic" defaultedgetype="directed" timeformat="date">
+    <attributes class="node" mode="static">
+<attribute id="0" title="random" type="string"/>
+</attributes>
+<attributes class="node" mode="dynamic">
+<attribute id="1" title="on" type="float"/>
+</attributes>
+<nodes>
+<node id="0" label="著作権と肖像権の侵害を引き起こしているかもしれない" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="1" label="悪くない" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="2" label="教育・啓発の改善を求める" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="3" label="生成画像の加工" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="4" label="人間と同じであるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="5" label="創造性の発展を妨げている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="6" label="二次創作が" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="7" label="盗用とも言える状況を引き起こしている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="8" label="労働人口不足の解消や生産性向上に寄与する可能性" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="9" label="量産され続ける状況" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="10" label="望ましくない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="11" label="創作活動の停滞" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="12" label="技術の発展" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="13" label="AI技術を使うクリエイター" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="14" label="技術開発の妨げになる要素を廃すべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="15" label="誰か" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="16" label="使用すべきではない" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="17" label="生成AI利用者に対して犯罪者とのレッテル張り等を行っている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="18" label="規制の実施" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="19" label="イラストレーターの仕事に対して無くなる" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="20" label="基本的に推進すべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="21" label="文化に対して衰退を引き起こしている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="22" label="規制機関" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="23" label="規制もしくは免許制にするなど" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="24" label="断固として" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="25" label="作家に筆を折らせている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="26" label="契約上の債務不履行" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="27" label="この世の終わり" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="28" label="剽窃" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="29" label="クリエイターの権利を脅かしている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="30" label="LoRa等のアーティスト" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="31" label="定められるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="32" label="騒ぐ必要はない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="33" label="生成AIをめぐる問題" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="34" label="専門の弁護士" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="35" label="イラストレーターに不利益" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="36" label="国際競争力を低下" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="37" label="人間に許される行為" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="38" label="著作権を遵守する" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="39" label="無断での使用" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="40" label="許すべきではない" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="41" label="創作物の総量爆発的増加" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="42" label="務めるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="43" label="画風の著作権保護" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="44" label="生成AIが仕事のあり方" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="45" label="AIに関する議論" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="46" label="AIが日本の作品文化" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="47" label="法律で取り締まって欲しい" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="48" label="生成AIによる手描きとAI絵の判別" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="49" label="取り締まり" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="50" label="免許制であるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="51" label="人間が不器用" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="52" label="I2Iがパラメーター変更に対して" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="53" label="技術として頑張って欲しい" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="54" label="利用者" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="55" label="法規制をして欲しい" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="56" label="筆を折ってしまっている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="57" label="営利利用に規制" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="58" label="文化庁の職員が" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="59" label="誤解と誹謗中傷" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="60" label="拡大解釈" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="61" label="生成AI支持の偏見" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="62" label="必要が無い" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="63" label="痕跡を消される懸念" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="64" label="侵害している" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="65" label="全面的に禁止" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="66" label="手描きとAI絵の判別がつかず" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="67" label="生成AIを利用した創作活動の正当性と価値の理解、周知と対策の強化" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="68" label="依拠性を明確にする" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="69" label="無いものでない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="70" label="漫画やアニメの制作分野を目指す若者に対して減少する" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="71" label="禁止されるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="72" label="私自身のイラスト制作能力が上がってきた" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="73" label="AI" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="74" label="懸念である" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="75" label="権利の侵害" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="76" label="既存作品の切り貼りでない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="77" label="生成AIの規制をいち早く進める" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="78" label="生成AIのデーターセット" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="79" label="慎重になるべき" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="80" label="AIを使う人たち" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="81" label="イラストレーターに対する被害が増える" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="82" label="機械学習の仕組み" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="83" label="クリエイターに仕事を奪われる" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="84" label="日本の生成AIの土壌" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="85" label="トラブルにならないか不安" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="86" label="素案に反対" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="87" label="学習データは切り貼りではない" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="88" label="研究機関や企業" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="89" label="クリエイターに困っている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="90" label="大規模言語モデルの開発・提供" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="91" label="生成AI開発規制" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="92" label="文化庁" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="93" label="AIの監督" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="94" label="認められるべきではない" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="95" label="創作活動の規則" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="96" label="創作的意図上の合格基準ラインをクリア" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="97" label="AIが神絵師の絵柄" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="98" label="具体的な例を出して周知" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="99" label="無許可で学習" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="100" label="筆者" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="101" label="読者" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="102" label="絵描きの仕事が奪われないようにあるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="103" label="日本の文化や経済に寄与する可能性" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="104" label="喫緊の課題" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="105" label="権利を守る決まり" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="106" label="権利範囲を広げられる懸念" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="107" label="適用するべき" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="108" label="法第30条の4の意味" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="109" label="一次産業の人達" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="110" label="法制度" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="111" label="法規制が技術レベルが世界基準に到達" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="112" label="AI生成画像の無償公開" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="113" label="法的整備" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="114" label="もっといいものを作るべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="115" label="公的な働きかけを要求" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="116" label="無許可で利用すること" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="117" label="二次創作が萎縮しないように" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="118" label="必要" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="119" label="生成AIサービスの質の低下" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="120" label="情報工学的な生成AIの仕組みを誤解している" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="121" label="生成物の著作権" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="122" label="AI生成物の規制" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="123" label="生成AIのインパクト" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="124" label="整備されつつある" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="125" label="やめるべきである" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="126" label="禁止" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="127" label="クオリティの高いAI" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="128" label="「AI利用者の懸念」欄" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="129" label="AIの使用を規制" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="130" label="生成物の著作性" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="131" label="文化・産業の拡大と労働力不足対策に期待される効果が大きい" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="132" label="厳しい取り締まり" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="133" label="無法地帯であるべきではない" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="134" label="否定的な意見がある" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="135" label="コンピューターサイエンス" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="136" label="誤解に基づく批判による研究開発への支障が出ないように十分な配慮をして欲しい" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="137" label="著作物に対して学習" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="138" label="制限" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="139" label="設けるべきではない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="140" label="著作物性を認めるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="141" label="産業発展にほぼ同義" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="142" label="クリエイター" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="143" label="法改正" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="144" label="感情に関わってくる" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="145" label="無断で取り込む" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="146" label="被害を被っている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="147" label="「自分で作りました」と言う行為" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="148" label="断固として反対" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="149" label="学習データ収集の対象" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="150" label="人間の作品を学習" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="151" label="可能性を閉じること" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="152" label="民間企業やクリエイター" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="153" label="周知して欲しい" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="154" label="一般人" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="155" label="生成AIに対する著作物の学習および使用" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="156" label="著作物への認定ライン" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="157" label="次のステージに押し上げ" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="158" label="一般的に保護されないアイデア" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="159" label="理解の周知" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="160" label="規制する法律" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="161" label="全面的な生成AIの規制" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="162" label="反AI的な意見" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="163" label="富を最大化しつつ、それをあらゆる人に還元できる仕組みが望ましい" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="164" label="需要が代替される" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="165" label="違法化されるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="166" label="既存の創作方法と同様のロジックであるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="167" label="是非の判断" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="168" label="具体性のない感情で妨げられることがあってはならない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="169" label="クリエイターに対して実力をつけていくことが脅かされる" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="170" label="技術発展に必要" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="171" label="AIが職を失う" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="172" label="創作活動に対して萎縮させている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="173" label="国" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="174" label="創造性を刺激" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="175" label="創作活動を行うクリエイター" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="176" label="生成AIを規制または免許制に" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="177" label="曖昧" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="178" label="嫌がらせや著作権侵害" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="179" label="反映すべきではない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="180" label="生成AIの規制を求めるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="181" label="反対して欲しい" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="182" label="反対であるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="183" label="第三者へ明確に答えうる根拠を持ち合わせていない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="184" label="影響がある" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="185" label="あの状況を引き起こしている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="186" label="創作文化に対して破壊的" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="187" label="クリエイターに対して意欲を損失させている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="188" label="敬意を持って行うべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="189" label="生成AIの選択行為" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="190" label="有料素材サイト" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="191" label="大きく反対" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="192" label="報道機関の解釈" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="193" label="問題がある状況" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="194" label="生成AIが技術や文化に対して" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="195" label="厳しく取り締まって欲しい" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="196" label="進めるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="197" label="あってはならない" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="198" label="行為が責任を生じさせる" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="199" label="AIの開発を停止" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="200" label="生成AIの技術的な背景" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="201" label="推進・発展" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="202" label="AI反対派の意見" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="203" label="遅くはない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="204" label="法整備担当者" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="205" label="全面的に反対" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="206" label="開発者と創作者" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="207" label="画像生成AIの使用に関する問題について慎重な検討をして欲しい" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="208" label="断固として認められない" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="209" label="萎縮的効果をもたらす" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="210" label="取り締まるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="211" label="AIに対して反対" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="212" label="オプトアウトシステム" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="213" label="一般人に影響を与えていない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="214" label="法規制当局" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="215" label="読まない人" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="216" label="意義を失わせ阻害している" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="217" label="国際的な環境差やパワーバランスを考慮しつつ深めるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="218" label="厳しくされるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="219" label="脅かすもの" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="220" label="決まりを禁止した場合" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="221" label="クリエイターに利益なし" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="222" label="感情の法的反映" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="223" label="既存の作品に影響" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="224" label="魔女狩りじみている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="225" label="生成AIに関する反感" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="226" label="全世界で同時にやるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="227" label="文化・産業の全面での活用" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="228" label="創作的寄与の判断に影響" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="229" label="生成AI推進者" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="230" label="AIと人間の差" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="231" label="人間が描いたものと同様" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="232" label="肯定派に対して積極的" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="233" label="学習や開発を安心して実施" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="234" label="発展を妨げないように" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="235" label="訓練データの利用" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="236" label="よい土壌" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="237" label="生成AIがSNS上に" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="238" label="生成AIが学習データの切り貼り" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="239" label="考慮されるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="240" label="著作権者との協力" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="241" label="生成AIが好きな作家" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="242" label="土壌を荒らしている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="243" label="国際競争力に対して失わせている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="244" label="著作権で制限" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="245" label="作業効率が落ちる" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="246" label="関係者" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="247" label="変更不要" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="248" label="画像AIの正しい理解と健全な使用" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="249" label="著作権の概念" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="250" label="生成者" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="251" label="人に見せる形で利用" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="252" label="イノベーション等に対して妨げる恐れ" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="253" label="技術格差による危険性" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="254" label="AI開発に対する抑制効果" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="255" label="才能の民主化の火を絶やさないであるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="256" label="諸外国の推進" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="257" label="問題とされる" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="258" label="止めるべきではない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="259" label="クリアであるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="260" label="AIが人類に" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="261" label="悪質な嫌がらせや中傷" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="262" label="権利や報酬が発生するシステム" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="263" label="機会を失わせている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="264" label="奪っている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="265" label="促進" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="266" label="政府" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="267" label="技術職を淘汰" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="268" label="議論が成り立たない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="269" label="厳しく取り締まるべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="270" label="AIを受け入れていると認知して欲しい" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="271" label="著作権法が保護しようとしている著作権者に損益のないように整備していってほしい" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="272" label="より明確な定義" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="273" label="回答も交えつつ公開" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="274" label="しっかりとした法整備を整えてほしい" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="275" label="文章生成系のAI" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="276" label="引き起こしている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="277" label="元画像との類似度を自由に変化させる" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="278" label="社会のありようを大きく変革するもの" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="279" label="人に対して" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="280" label="正当な形で利益を享受できる環境作りが必要" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="281" label="創作活動を諦めていた人々に夢と希望を見せている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="282" label="作風、手法を含むもの" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="283" label="全面規制を求める" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="284" label="クリエイターへの敬意に欠けている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="285" label="変化をもたらしている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="286" label="出所が正しく、著作の許可を取っている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="287" label="生成AIの研究" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="288" label="トラブルを引き起こしている" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="289" label="読ませるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="290" label="仕事を奪っている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="291" label="クリエイティブ関係者" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="292" label="法規制されるべき" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="293" label="生成AIの学習自体や、機能自体" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="294" label="現状の法規制にとどめる" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="295" label="AIが学習" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="296" label="行うべき" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="297" label="個人の同意を得る" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="298" label="良い落としどころが見つかることを祈って欲しい" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="299" label="準備運動" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="300" label="過度に制限すべきではない" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="301" label="日本" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="302" label="既存の権利物に酷似" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="303" label="著作物無断使用" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="304" label="特定の絵師を狙って学習させた生成AI" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="305" label="無断で学習" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="306" label="減ってくれること" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="307" label="生成AIの使用を制限する問題" start="2000-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="308" label="勝手に使用されている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="309" label="規制又は免許制にして欲しい" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="310" label="同様の行為を防止、抑制するための文章が必要" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="311" label="無断データでの生成AI開発" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="312" label="懸念の声についての意見を周知、啓蒙を一層進めて" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="313" label="AIにも許されるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="314" label="被害を引き起こしている" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="315" label="AIを犯罪に用いること" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="316" label="守るべきである" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="317" label="著作権に対して無断で著作物を学習" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="318" label="悪影響を及ぼす" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="319" label="問題ないはず" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="320" label="創作活動や経済活動が阻害される" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="321" label="全面的に認められるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="322" label="理解が足りない" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="323" label="不当な権利の侵害行為" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="324" label="反AIと呼ばれる方々" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="325" label="著作権侵害を意味しないという念押しがあるべき" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="326" label="著作権法の改定" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="327" label="創作活動の委縮" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="328" label="AIと著作権に関する考え方" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="329" label="反対である" start="2000-01-01" end="2001-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+
+<node id="330" label="生成AIの一般化にトラブルを引き起こしている" start="2001-01-01" end="2002-01-01">
+<attvalues>
+<attvalue for="0" value="1"/>
+<attvalue for="1" value="0" start="2000-01-01" end="2001-01-01"/>
+</attvalues>
+</node>
+</nodes>
+<edges>
+<edge id="0" source="80" target="38" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="1" source="38" target="80" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="2" source="38" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="3" source="38" target="316" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="4" source="38" target="107" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="5" source="38" target="118" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="6" source="38" target="173" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="7" source="38" target="214" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="8" source="38" target="266" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="9" source="86" target="24" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="10" source="129" target="218" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="11" source="129" target="118" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="12" source="238" target="38" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="13" source="288" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="14" source="288" target="307" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="15" source="290" target="266" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="16" source="305" target="307" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="17" source="311" target="323" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="18" source="318" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="19" source="326" target="118" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="20" source="28" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="21" source="6" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="22" source="18" target="118" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="23" source="317" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="24" source="229" target="264" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="25" source="229" target="269" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="26" source="229" target="276" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="27" source="295" target="38" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="28" source="295" target="71" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="29" source="295" target="165" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="30" source="295" target="292" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="31" source="295" target="89" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="32" source="295" target="182" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="33" source="295" target="185" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="34" source="295" target="266" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="35" source="307" target="218" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="36" source="307" target="292" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="37" source="307" target="296" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="38" source="307" target="4" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="39" source="307" target="50" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="40" source="307" target="118" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="41" source="307" target="104" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="42" source="307" target="196" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="43" source="18" target="296" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="44" source="229" target="210" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="45" source="13" target="38" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="46" source="13" target="63" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="47" source="214" target="176" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="48" source="214" target="195" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="49" source="241" target="56" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="50" source="22" target="307" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="51" source="22" target="176" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="52" source="49" target="118" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="53" source="73" target="292" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="54" source="85" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="55" source="100" target="211" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="56" source="266" target="307" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="57" source="266" target="18" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="58" source="266" target="129" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="59" source="266" target="292" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="60" source="266" target="55" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="61" source="266" target="77" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="62" source="266" target="176" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="63" source="266" target="180" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="64" source="276" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="65" source="276" target="307" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="66" source="214" target="132" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="67" source="13" target="1" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="68" source="214" target="55" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="69" source="214" target="129" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="70" source="25" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="71" source="46" target="242" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="72" source="48" target="288" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="73" source="48" target="193" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="74" source="56" target="307" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="75" source="66" target="85" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="76" source="81" target="266" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="77" source="110" target="274" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="78" source="113" target="118" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="79" source="143" target="118" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="80" source="149" target="38" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="81" source="160" target="118" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="82" source="185" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="83" source="193" target="229" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="84" source="194" target="216" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="85" source="200" target="87" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="86" source="204" target="274" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="87" source="214" target="307" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="88" source="214" target="18" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="89" source="214" target="292" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="90" source="229" target="197" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="91" source="56" target="214" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="92" source="229" target="150" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="93" source="229" target="218" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="94" source="229" target="87" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="95" source="229" target="94" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="96" source="229" target="99" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="97" source="229" target="102" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="98" source="229" target="116" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="99" source="229" target="125" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="100" source="229" target="133" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="101" source="229" target="83" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="102" source="229" target="137" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="103" source="229" target="146" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="104" source="229" target="148" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="105" source="229" target="318" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="106" source="229" target="164" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="107" source="229" target="169" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="108" source="229" target="172" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="109" source="229" target="288" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="110" source="229" target="175" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="111" source="229" target="145" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="112" source="229" target="178" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="113" source="229" target="81" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="114" source="229" target="75" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="115" source="229" target="6" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="116" source="229" target="309" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="117" source="229" target="16" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="118" source="229" target="19" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="119" source="229" target="21" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="120" source="229" target="23" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="121" source="229" target="305" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="122" source="229" target="25" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="123" source="229" target="79" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="124" source="229" target="303" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="125" source="229" target="39" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="126" source="229" target="300" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="127" source="229" target="292" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="128" source="229" target="290" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="129" source="229" target="40" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="130" source="229" target="56" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="131" source="229" target="65" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="132" source="229" target="74" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="133" source="229" target="29" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="134" source="229" target="181" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="135" source="229" target="329" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="136" source="229" target="35" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="137" source="229" target="308" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="138" source="229" target="283" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="139" source="229" target="0" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="140" source="229" target="165" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="141" source="80" target="329" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="142" source="229" target="47" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="143" source="229" target="223" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="144" source="229" target="221" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="145" source="229" target="62" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="146" source="229" target="64" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="147" source="229" target="219" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="148" source="229" target="257" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="149" source="229" target="18" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="150" source="229" target="71" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="151" source="80" target="300" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="152" source="80" target="292" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="153" source="229" target="126" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="154" source="229" target="38" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="155" source="229" target="208" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="156" source="229" target="205" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="157" source="229" target="187" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="158" source="229" target="185" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="159" source="229" target="184" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="160" source="229" target="186" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="161" source="229" target="27" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="162" source="229" target="314" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="163" source="229" target="182" weight="2000.0" start="2000-01-01" end="2001-01-01"/>
+<edge id="164" source="158" target="214" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="165" source="159" target="42" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="166" source="106" target="88" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="167" source="162" target="306" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="168" source="92" target="153" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="169" source="92" target="67" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="170" source="91" target="243" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="171" source="90" target="209" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="172" source="88" target="233" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="173" source="84" target="236" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="174" source="82" target="322" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="175" source="161" target="191" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="176" source="95" target="247" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="177" source="147" target="292" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="178" source="156" target="144" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="179" source="108" target="69" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="180" source="109" target="38" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="181" source="111" target="203" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="182" source="112" target="32" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="183" source="119" target="291" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="184" source="120" target="173" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="185" source="105" target="226" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="186" source="122" target="118" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="187" source="123" target="278" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="188" source="124" target="92" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="189" source="103" target="238" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="190" source="157" target="295" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="191" source="127" target="330" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="192" source="128" target="310" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="193" source="131" target="227" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="194" source="135" target="234" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="195" source="97" target="9" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="196" source="138" target="139" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="197" source="96" target="189" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="198" source="141" target="109" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="199" source="142" target="114" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="200" source="144" target="190" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="201" source="152" target="14" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="202" source="155" target="300" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="203" source="101" target="207" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="204" source="229" target="170" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="205" source="206" target="298" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="206" source="168" target="240" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="207" source="246" target="312" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="208" source="246" target="273" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="209" source="248" target="265" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="210" source="249" target="282" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="211" source="250" target="68" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="212" source="251" target="3" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="213" source="252" target="272" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="214" source="253" target="13" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="215" source="254" target="108" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="216" source="256" target="253" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="217" source="260" target="157" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="218" source="261" target="320" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="219" source="263" target="13" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="220" source="229" target="38" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="221" source="267" target="287" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="222" source="268" target="215" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="223" source="272" target="31" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="224" source="275" target="8" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="225" source="277" target="229" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="226" source="279" target="222" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="227" source="281" target="58" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="228" source="284" target="229" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="229" source="285" target="307" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="230" source="245" target="105" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="231" source="167" target="166" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="232" source="243" target="45" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="233" source="237" target="134" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="234" source="171" target="279" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="235" source="174" target="18" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="236" source="177" target="37" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="237" source="183" target="38" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="238" source="189" target="96" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="239" source="189" target="228" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="240" source="190" target="297" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="241" source="192" target="254" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="242" source="198" target="229" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="243" source="199" target="36" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="244" source="203" target="152" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="245" source="209" target="34" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="246" source="212" target="124" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="247" source="213" target="154" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="248" source="215" target="289" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="249" source="220" target="245" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="250" source="222" target="179" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="251" source="224" target="206" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="252" source="225" target="120" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="253" source="227" target="163" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="254" source="231" target="54" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="255" source="232" target="246" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="256" source="235" target="138" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="257" source="240" target="239" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="258" source="78" target="286" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="259" source="5" target="248" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="260" source="72" target="161" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="261" source="38" target="155" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="262" source="38" target="250" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="263" source="38" target="271" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="264" source="129" target="11" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="265" source="230" target="51" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="266" source="230" target="177" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="267" source="238" target="235" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="268" source="238" target="259" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="269" source="244" target="135" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="270" source="288" target="167" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="271" source="38" target="92" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="272" source="229" target="140" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="273" source="319" target="147" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="274" source="12" target="267" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="275" source="13" target="327" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="276" source="13" target="27" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="277" source="13" target="141" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="278" source="13" target="151" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="279" source="13" target="174" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="280" source="13" target="201" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="281" source="13" target="263" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="282" source="33" target="183" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="283" source="319" target="301" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="284" source="38" target="107" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="285" source="18" target="117" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="286" source="18" target="10" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="287" source="229" target="224" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="288" source="229" target="258" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="289" source="229" target="168" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="290" source="229" target="131" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="291" source="229" target="281" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="292" source="229" target="103" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="293" source="229" target="76" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="294" source="229" target="72" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="295" source="295" target="244" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="296" source="229" target="70" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="297" source="229" target="53" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="298" source="295" target="321" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="299" source="295" target="251" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="300" source="229" target="41" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="301" source="295" target="284" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="302" source="229" target="27" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="303" source="229" target="20" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="304" source="229" target="325" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="305" source="307" target="294" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="306" source="307" target="57" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="307" source="307" target="119" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="308" source="229" target="302" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="309" source="18" target="79" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="310" source="34" target="136" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="311" source="54" target="93" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="312" source="286" target="122" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="313" source="60" target="106" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="314" source="9" target="204" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="315" source="11" target="18" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="316" source="15" target="328" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="317" source="17" target="246" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="318" source="229" target="288" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="319" source="26" target="198" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="320" source="27" target="229" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="321" source="27" target="30" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="322" source="27" target="84" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="323" source="30" target="262" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="324" source="32" target="142" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="325" source="36" target="315" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="326" source="37" target="313" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="327" source="41" target="95" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="328" source="43" target="158" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="329" source="44" target="285" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="330" source="45" target="217" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="331" source="51" target="38" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="332" source="52" target="277" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="333" source="58" target="255" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="334" source="59" target="5" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="335" source="61" target="268" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="336" source="70" target="101" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="337" source="8" target="229" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="338" source="76" target="249" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="339" source="7" target="229" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="340" source="3" target="319" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="341" source="121" target="231" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="342" source="130" target="252" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="343" source="134" target="162" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="344" source="134" target="232" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="345" source="154" target="270" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="346" source="173" target="2" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="347" source="202" target="213" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="348" source="204" target="274" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="349" source="229" target="319" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="350" source="214" target="98" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="351" source="278" target="15" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="352" source="291" target="280" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="353" source="293" target="18" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="354" source="299" target="118" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="355" source="301" target="115" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="356" source="302" target="307" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="357" source="304" target="7" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="358" source="315" target="292" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="359" source="320" target="128" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="360" source="322" target="159" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="361" source="324" target="17" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="362" source="327" target="299" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="363" source="330" target="229" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="364" source="229" target="188" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+<edge id="365" source="287" target="300" weight="2000.0" start="2001-01-01" end="2002-01-01"/>
+</edges>
+</graph>
+</gexf>
